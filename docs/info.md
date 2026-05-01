@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The input pins are split into two parts, the first 4 are the A side bit inputs and the second 4 are the B side bit inputs.
 
 ## How to test
 
-Explain how to use your project
+test by inputing 2 4bit numbers and seeing if the output is correct.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+make use of switch banks and a seven segment display.
