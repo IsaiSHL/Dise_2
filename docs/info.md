@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The input pins are split into two parts, the first 4 are the A side bit inputs and the second 4 are the B side bit inputs.
+The input pins are split into two parts, the first 4 are the A side bit inputs 
+and the second 4 are the B side bit inputs.
 
 ## How to test
 
